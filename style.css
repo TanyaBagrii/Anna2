@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color:  rgb(164, 161, 164); 
+    }
+h3{
+    color: rgb(73, 71, 71)
+}
+.contact img{
+   height: 50px;  
+}
+.product img:hover{
+width: 350px;
+height: 350px;
+der: 3px solid black;
+transition: 0.5s ease-in;
+
+}
+.product img{
+    width: 200px;
+    height: 200px;
+}
+ 
